@@ -15,3 +15,4 @@ class Schedule < ApplicationRecord
     errors.add(:end_date, "は開始日以降の日付にしてください")
   end
 end
+# PR作成用のダミー変更
